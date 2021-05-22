@@ -1,0 +1,12 @@
+swiggy\examples\constants\HomeConstants.class
+swiggy\examples\constants\LoginConstants.class
+swiggy\examples\services\SignUpService.class
+swiggy\examples\steps\HomeSteps.class
+swiggy\examples\services\LoginService.class
+swiggy\examples\report\Reporter.class
+swiggy\examples\steps\LoginSteps.class
+swiggy\examples\steps\SignUpSteps.class
+swiggy\examples\pages\ApiDemoHome.class
+swiggy\examples\constants\SignUpConstants.class
+swiggy\examples\services\HomeService.class
+swiggy\examples\steps\ApkApiDemoSteps.class

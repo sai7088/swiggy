@@ -1,0 +1,12 @@
+{
+  "browserName": "BrowserStack",
+  "device": "{{deviceName}}",
+  "os_version": "{{os.version}}",
+  "project": "Mobile sample Project",
+  "app": "{{app}}",
+  "resetKeyboard": "true",
+  "unicodeKeyboard": "true",
+  "autoGrantPermissions": "true",
+  "autoAcceptAlerts": "true",
+  "zal:idleTimeout":"150"
+}
